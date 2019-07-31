@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_pagination/static/css/main.f3053035.chunk.css",
+    "main.js": "/react_pagination/static/js/main.8c4c3cff.chunk.js",
+    "main.js.map": "/react_pagination/static/js/main.8c4c3cff.chunk.js.map",
+    "runtime~main.js": "/react_pagination/static/js/runtime~main.c851b861.js",
+    "runtime~main.js.map": "/react_pagination/static/js/runtime~main.c851b861.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/react_pagination/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/react_pagination/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/react_pagination/index.html",
+    "precache-manifest.2cb113bbb0a9a38c88ff9dd16630a313.js": "/react_pagination/precache-manifest.2cb113bbb0a9a38c88ff9dd16630a313.js",
+    "service-worker.js": "/react_pagination/service-worker.js",
+    "static/css/main.f3053035.chunk.css.map": "/react_pagination/static/css/main.f3053035.chunk.css.map"
+  }
+}
